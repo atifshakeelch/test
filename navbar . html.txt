@@ -1,0 +1,35 @@
+﻿<!doctype html>
+<html>
+<head>
+          <title> navbar </title>
+           <style>
+              *{
+                 margin:0;
+            }
+         ul{
+              display:flex;
+              position:relative;
+              top:20%;
+           } 
+  
+
+
+
+</style>
+</head>
+<body>
+<div class="main-container">
+     <div class="compny-name">
+           <p class="brand-name"> compny name </p>
+      </div>
+        <div class="navbar-list">
+                 <ul>
+                       <li> <a href="#"> career </a> </li>
+                       <li> <a href="#"> contact </a> </li>
+		       <li> <a href="#"> about </a> </li>
+		       <li> <a href="#"> log in </a> </li>
+                </ul>
+           </div>
+          </div>
+</body>
+</html>
